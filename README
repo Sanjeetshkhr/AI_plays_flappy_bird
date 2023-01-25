@@ -1,4 +1,1 @@
-Objects used:
-1- Pipes
-2- Bird
-3- Ground
+Here is my attempt of using pygame to recreating flappy bird and using NEAT-python module to train the algorithm to learn how to play the game.
